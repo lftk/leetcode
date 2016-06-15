@@ -2,7 +2,3 @@ language: go
 
 go:
   - 1.6
-
-install:
-
-script: go test -v

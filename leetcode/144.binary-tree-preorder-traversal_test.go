@@ -1,31 +1,6 @@
 package leetcode
 
-import (
-	"testing"
-)
-
-// Definition for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
-func preorderTraversal(root *TreeNode) []int {
-	if root == nil {
-		return nil
-	}
-
-	ret := append([]int{}, root.Val)
-	if left := preorderTraversal(root.Left); left != nil {
-		ret = append(ret, left...)
-	}
-	if right := preorderTraversal(root.Right); right != nil {
-		ret = append(ret, right...)
-	}
-
-	return ret
-}
+import "testing"
 
 func newTreeNode(val int) *TreeNode {
 	return &TreeNode{Val: val}
@@ -39,7 +14,7 @@ func (t *TreeNode) setRight(right *TreeNode) {
 	t.Right = right
 }
 
-func TestPreorderTraversal(t *testing.T) {
+func Test_preorderTraversal(t *testing.T) {
 	t1 := newTreeNode(1)
 	t2 := newTreeNode(2)
 	t3 := newTreeNode(3)

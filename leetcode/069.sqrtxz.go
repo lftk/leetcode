@@ -1,10 +1,5 @@
 package leetcode
 
-import (
-	"math"
-	"testing"
-)
-
 func mySqrt(x int) int {
 	if x <= 1 {
 		return x
@@ -33,14 +28,4 @@ func abs(x int) int {
 		return -1 * x
 	}
 	return x
-}
-
-func TestMySqrt(t *testing.T) {
-	for i := 0; i < 1000; i++ {
-		n1 := mySqrt(i)
-		n2 := int(math.Sqrt(float64(i)))
-		if n1 != n2 {
-			t.Fatal(i, n1, n2)
-		}
-	}
 }
