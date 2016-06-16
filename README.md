@@ -17,6 +17,7 @@
 111 | [Minimum Depth of Binary Tree][111] | 20 ms | golang
 112 | [Path Sum][112] | 20 ms | golang
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
+136 | [Single Number][136] | 24 ms | golang
 144 | [Binary Tree Preorder Traversal][144] | 4 ms | golang
 145 | [Binary Tree Postorder Traversal][145] | 4 ms | golang
 151 | [Reverse Words in a String][151] | 0 ms | c
@@ -41,6 +42,7 @@
 [111]: ./leetcode/111.minimum-depth-of-binary-tree.go
 [112]: ./leetcode/112.path-sum.go
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
+[136]: ./leetcode/136.single-number_test.go
 [144]: ./leetcode/144.binary-tree-preorder-traversal.go
 [145]: ./leetcode/145.binary-tree-postorder-traversal.go
 [151]: ./leetcode/151.reverse-words-in-a-string.go
