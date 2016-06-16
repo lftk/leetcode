@@ -6,6 +6,7 @@
 \#     | Title  | Runtime | Language
 ------ | ------ | ------: | ------
 003 | [Longest Substring Without Repeating Characters][003] | 28 ms | golang
+034 | [Search for a Range][034] | 24 ms | golang
 040 | [Combination Sum II][040] | 12 ms | golang
 041 | [First Missing Positive][041] | 6 ms | golang
 056 | [Merge Intervals][056] | 28 ms | golang
@@ -31,6 +32,7 @@
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
 
 [003]: ./leetcode/003.longest-substring-without-repeating-characters.go
+[034]: ./leetcode/034.search-for-a-range.go
 [040]: ./leetcode/040.combination-sum-ii.go
 [041]: ./leetcode/041.first-missing-positive.go
 [056]: ./leetcode/056.merge-intervals.go
