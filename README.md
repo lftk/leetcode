@@ -46,7 +46,7 @@
 [111]: ./leetcode/111.minimum-depth-of-binary-tree.go
 [112]: ./leetcode/112.path-sum.go
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
-[136]: ./leetcode/136.single-number_test.go
+[136]: ./leetcode/136.single-number.go
 [144]: ./leetcode/144.binary-tree-preorder-traversal.go
 [145]: ./leetcode/145.binary-tree-postorder-traversal.go
 [151]: ./leetcode/151.reverse-words-in-a-string.go
