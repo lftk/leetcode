@@ -19,6 +19,7 @@
 108 | [Convert Sorted Array to Binary Search Tree][108] | 392 ms | golang
 111 | [Minimum Depth of Binary Tree][111] | 20 ms | golang
 112 | [Path Sum][112] | 20 ms | golang
+113 | [Path Sum II][113] | 24 ms | golang
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
 136 | [Single Number][136] | 24 ms | golang
 137 | [Single Number II][137] | 12 ms | golang
@@ -49,6 +50,7 @@
 [108]: ./leetcode/108.convert-sorted-array-to-binary-search-tree.go
 [111]: ./leetcode/111.minimum-depth-of-binary-tree.go
 [112]: ./leetcode/112.path-sum.go
+[113]: ./leetcode/113.path-sum-ii.go
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
 [136]: ./leetcode/136.single-number.go
 [137]: ./leetcode/137.single-number-ii.go
