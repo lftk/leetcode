@@ -33,6 +33,7 @@
 228 | [Summary Ranges][228] | 0 ms | golang
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
 257 | [Binary Tree Paths][257] | 4 ms | golang
+283 | [Move Zeroes][283] | 12 ms | c
 349 | [Intersection of Two Arrays][349] | 12 ms | golang
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
 
@@ -64,5 +65,6 @@
 [228]: ./leetcode/228.summary-ranges.go
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
 [257]: ./leetcode/257.binary-tree-paths.go
+[283]: ./leetcode/283.move-zeroes.go
 [349]: ./leetcode/349.intersection-of-two-arrays.go
 [350]: ./leetcode/350.intersection-of-two-arrays-ii.go
