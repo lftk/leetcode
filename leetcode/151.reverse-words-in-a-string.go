@@ -3,6 +3,8 @@
 package leetcode
 
 /*
+#include <stdlib.h>
+
 void reverse(char* begin, char* end) {
     while (begin < end) {
         char c = *begin;
@@ -38,9 +40,11 @@ void reverseWords(char *s) {
 }
 */
 import "C"
+import "unsafe"
 
 func reverseWords(s string) string {
 	cs := C.CString(s)
+    defer C.free(unsafe.Pointer(cs))
 	C.reverseWords(cs)
 	return C.GoString(cs)
 }
