@@ -44,7 +44,7 @@ import "unsafe"
 
 func reverseWords(s string) string {
 	cs := C.CString(s)
-    defer C.free(unsafe.Pointer(cs))
+	defer C.free(unsafe.Pointer(cs))
 	C.reverseWords(cs)
 	return C.GoString(cs)
 }
