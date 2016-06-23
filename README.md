@@ -29,6 +29,7 @@
 206 | [Reverse Linked List][206] | 4 ms | golang
 209 | [Minimum Size Subarray Sum][209] | 8 ms | golang
 215 | [Kth Largest Element in an Array][215] | 32 ms | golang
+217 | [Contains Duplicate][217] | 36 ms | golang
 223 | [Rectangle Area][223] | 88 ms | golang
 228 | [Summary Ranges][228] | 0 ms | golang
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
@@ -61,6 +62,7 @@
 [206]: ./leetcode/206.reverse-linked-list.go
 [209]: ./leetcode/209.minimum-size-subarray-sum.go
 [215]: ./leetcode/215.kth-largest-element-in-an-array.go
+[217]: ./leetcode/217.contains-duplicate.go
 [223]: ./leetcode/223.rectangle-area.go
 [228]: ./leetcode/228.summary-ranges.go
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
