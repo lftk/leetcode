@@ -12,6 +12,7 @@
 034 | [Search for a Range][034] | 24 ms | golang
 040 | [Combination Sum II][040] | 12 ms | golang
 041 | [First Missing Positive][041] | 6 ms | golang
+046 | [Permutations][046] | 24 ms | golang
 050 | [Pow(x, n)][050] | 12 ms | golang
 056 | [Merge Intervals][056] | 28 ms | golang
 069 | [Sqrt(x)][069] | 16 ms | golang
@@ -50,6 +51,7 @@
 [034]: ./leetcode/034.search-for-a-range.go
 [040]: ./leetcode/040.combination-sum-ii.go
 [041]: ./leetcode/041.first-missing-positive.go
+[046]: ./leetcode/046.permutations.go
 [050]: ./leetcode/050.powx-n.go
 [056]: ./leetcode/056.merge-intervals.go
 [069]: ./leetcode/069.sqrtxz.go
