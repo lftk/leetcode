@@ -27,7 +27,7 @@
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
 136 | [Single Number][136] | 24 ms | golang
 137 | [Single Number II][137] | 12 ms | golang
-141 | [Linked List Cycle][141] | 8 ms | golang
+141 | [Linked List Cycle][141] | 8 ms | c
 144 | [Binary Tree Preorder Traversal][144] | 4 ms | golang
 145 | [Binary Tree Postorder Traversal][145] | 4 ms | golang
 151 | [Reverse Words in a String][151] | 0 ms | c
