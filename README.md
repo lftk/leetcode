@@ -15,6 +15,7 @@
 046 | [Permutations][046] | 24 ms | golang
 050 | [Pow(x, n)][050] | 12 ms | golang
 056 | [Merge Intervals][056] | 28 ms | golang
+062 | [Unique Paths][062] | 0 ms | golang
 069 | [Sqrt(x)][069] | 16 ms | golang
 074 | [Search a 2D Matrix][074] | 20 ms | golang
 088 | [Merge Sorted Array][088] | 4 ms | golang
@@ -57,6 +58,7 @@
 [046]: ./leetcode/046.permutations.go
 [050]: ./leetcode/050.powx-n.go
 [056]: ./leetcode/056.merge-intervals.go
+[062]: ./leetcode/062.unique-paths.go
 [069]: ./leetcode/069.sqrtxz.go
 [074]: ./leetcode/074.search-a-2d-matrix.go
 [088]: ./leetcode/088.merge-sorted-array.go
