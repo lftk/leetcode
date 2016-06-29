@@ -27,6 +27,7 @@
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
 136 | [Single Number][136] | 24 ms | golang
 137 | [Single Number II][137] | 12 ms | golang
+141 | [Linked List Cycle][141] | 8 ms | golang
 144 | [Binary Tree Preorder Traversal][144] | 4 ms | golang
 145 | [Binary Tree Postorder Traversal][145] | 4 ms | golang
 151 | [Reverse Words in a String][151] | 0 ms | c
@@ -68,6 +69,7 @@
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
 [136]: ./leetcode/136.single-number.go
 [137]: ./leetcode/137.single-number-ii.go
+[141]: ./leetcode/141.linked-list-cycle.go
 [144]: ./leetcode/144.binary-tree-preorder-traversal.go
 [145]: ./leetcode/145.binary-tree-postorder-traversal.go
 [151]: ./leetcode/151.reverse-words-in-a-string.go
