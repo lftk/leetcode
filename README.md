@@ -16,6 +16,7 @@
 046 | [Permutations][046] | 24 ms | golang
 050 | [Pow(x, n)][050] | 12 ms | golang
 056 | [Merge Intervals][056] | 28 ms | golang
+062 | [Unique Paths][062] | 0 ms | golang
 069 | [Sqrt(x)][069] | 16 ms | golang
 074 | [Search a 2D Matrix][074] | 20 ms | golang
 088 | [Merge Sorted Array][088] | 4 ms | golang
@@ -28,10 +29,13 @@
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
 136 | [Single Number][136] | 24 ms | golang
 137 | [Single Number II][137] | 12 ms | golang
+141 | [Linked List Cycle][141] | 8 ms | c
 144 | [Binary Tree Preorder Traversal][144] | 4 ms | golang
 145 | [Binary Tree Postorder Traversal][145] | 4 ms | golang
 151 | [Reverse Words in a String][151] | 0 ms | c
+168 | [Excel Sheet Column Title][168] | 0 ms | golang
 169 | [Majority Element][169] | 34 ms | golang
+171 | [Excel Sheet Column Number][171] | 16 ms | golang
 206 | [Reverse Linked List][206] | 4 ms | golang
 209 | [Minimum Size Subarray Sum][209] | 8 ms | golang
 215 | [Kth Largest Element in an Array][215] | 32 ms | golang
@@ -56,6 +60,7 @@
 [046]: ./leetcode/046.permutations.go
 [050]: ./leetcode/050.powx-n.go
 [056]: ./leetcode/056.merge-intervals.go
+[062]: ./leetcode/062.unique-paths.go
 [069]: ./leetcode/069.sqrtxz.go
 [074]: ./leetcode/074.search-a-2d-matrix.go
 [088]: ./leetcode/088.merge-sorted-array.go
@@ -68,10 +73,13 @@
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
 [136]: ./leetcode/136.single-number.go
 [137]: ./leetcode/137.single-number-ii.go
+[141]: ./leetcode/141.linked-list-cycle.go
 [144]: ./leetcode/144.binary-tree-preorder-traversal.go
 [145]: ./leetcode/145.binary-tree-postorder-traversal.go
 [151]: ./leetcode/151.reverse-words-in-a-string.go
+[168]: ./leetcode/168.excel-sheet-column-title.go
 [169]: ./leetcode/169.majority-element.go
+[171]: ./leetcode/171.excel-sheet-column-number.go
 [206]: ./leetcode/206.reverse-linked-list.go
 [209]: ./leetcode/209.minimum-size-subarray-sum.go
 [215]: ./leetcode/215.kth-largest-element-in-an-array.go
