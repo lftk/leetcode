@@ -7,6 +7,7 @@
 ------ | ------ | ------: | ------
 001 | [Two Sum][001] | 12 ms | golang
 003 | [Longest Substring Without Repeating Characters][003] | 28 ms | golang
+009 | [Palindrome Number][009] | 144 ms | golang
 019 | [Remove Nth Node From End of List][019] | 8 ms | golang
 020 | [Valid Parentheses][020] | 0 ms | golang
 034 | [Search for a Range][034] | 24 ms | golang
@@ -46,6 +47,7 @@
 
 [001]: ./leetcode/001.two-sum.go
 [003]: ./leetcode/003.longest-substring-without-repeating-characters.go
+[009]: ./leetcode/009.palindrome-number.go
 [019]: ./leetcode/019.remove-nth-node-from-end-of-list.go
 [020]: ./leetcode/020.valid-parentheses.go
 [034]: ./leetcode/034.search-for-a-range.go
