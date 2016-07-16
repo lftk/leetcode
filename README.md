@@ -41,6 +41,7 @@
 215 | [Kth Largest Element in an Array][215] | 32 ms | golang
 217 | [Contains Duplicate][217] | 36 ms | golang
 223 | [Rectangle Area][223] | 88 ms | golang
+226 | [Invert Binary Tree][226] | 3 ms | golang
 228 | [Summary Ranges][228] | 0 ms | golang
 234 | [Palindrome Linked List][234] | 28 ms | golang
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
@@ -87,6 +88,7 @@
 [215]: ./leetcode/215.kth-largest-element-in-an-array.go
 [217]: ./leetcode/217.contains-duplicate.go
 [223]: ./leetcode/223.rectangle-area.go
+[226]: ./leetcode/226.invert-binary-tree.go
 [228]: ./leetcode/228.summary-ranges.go
 [234]: ./leetcode/234.palindrome-linked-list.go
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
