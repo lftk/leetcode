@@ -46,6 +46,7 @@
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
 257 | [Binary Tree Paths][257] | 4 ms | golang
 260 | [Single Number III][260] | 16 ms | golang
+268 | [Missing Number][268] | 48 ms | golang
 283 | [Move Zeroes][283] | 12 ms | c
 349 | [Intersection of Two Arrays][349] | 12 ms | golang
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
@@ -91,6 +92,7 @@
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
 [257]: ./leetcode/257.binary-tree-paths.go
 [260]: ./leetcode/260.single-number-iii.go
+[268]: ./leetcode/268.missing-number.go
 [283]: ./leetcode/283.move-zeroes.go
 [349]: ./leetcode/349.intersection-of-two-arrays.go
 [350]: ./leetcode/350.intersection-of-two-arrays-ii.go
