@@ -52,6 +52,7 @@
 260 | [Single Number III][260] | 16 ms | golang
 268 | [Missing Number][268] | 48 ms | golang
 283 | [Move Zeroes][283] | 12 ms | c
+344 | [Reverse String][344] | 12 ms | golang
 349 | [Intersection of Two Arrays][349] | 12 ms | golang
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
 
@@ -102,5 +103,6 @@
 [260]: ./leetcode/260.single-number-iii.go
 [268]: ./leetcode/268.missing-number.go
 [283]: ./leetcode/283.move-zeroes.go
+[344]: ./leetcode/344.reverse-string.go
 [349]: ./leetcode/349.intersection-of-two-arrays.go
 [350]: ./leetcode/350.intersection-of-two-arrays-ii.go
