@@ -21,6 +21,7 @@
 069 | [Sqrt(x)][069] | 16 ms | golang
 074 | [Search a 2D Matrix][074] | 20 ms | golang
 088 | [Merge Sorted Array][088] | 4 ms | golang
+100 | [Same Tree][100] | 0 ms | golang
 102 | [Binary Tree Level Order Traversal][102] | 12 ms | golang
 104 | [Maximum Depth of Binary Tree][104] | 20 ms | golang
 108 | [Convert Sorted Array to Binary Search Tree][108] | 392 ms | golang
@@ -73,6 +74,7 @@
 [069]: ./leetcode/069.sqrtxz.go
 [074]: ./leetcode/074.search-a-2d-matrix.go
 [088]: ./leetcode/088.merge-sorted-array.go
+[100]: ./leetcode/100.same-tree.go
 [102]: ./leetcode/102.binary-tree-level-order-traversal.go
 [104]: ./leetcode/104.maximum-depth-of-binary-tree.go
 [108]: ./leetcode/108.convert-sorted-array-to-binary-search-tree.go
