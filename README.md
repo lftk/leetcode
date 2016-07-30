@@ -40,6 +40,7 @@
 168 | [Excel Sheet Column Title][168] | 0 ms | golang
 169 | [Majority Element][169] | 34 ms | golang
 171 | [Excel Sheet Column Number][171] | 16 ms | golang
+201 | [Bitwise AND of Numbers Range][201] | 116 ms | golang
 206 | [Reverse Linked List][206] | 4 ms | golang
 209 | [Minimum Size Subarray Sum][209] | 8 ms | golang
 215 | [Kth Largest Element in an Array][215] | 32 ms | golang
@@ -93,6 +94,7 @@
 [168]: ./leetcode/168.excel-sheet-column-title.go
 [169]: ./leetcode/169.majority-element.go
 [171]: ./leetcode/171.excel-sheet-column-number.go
+[201]: ./leetcode/201.bitwise-and-of-numbers-range.go
 [206]: ./leetcode/206.reverse-linked-list.go
 [209]: ./leetcode/209.minimum-size-subarray-sum.go
 [215]: ./leetcode/215.kth-largest-element-in-an-array.go
