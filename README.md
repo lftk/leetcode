@@ -48,6 +48,7 @@
 223 | [Rectangle Area][223] | 88 ms | golang
 226 | [Invert Binary Tree][226] | 3 ms | golang
 228 | [Summary Ranges][228] | 0 ms | golang
+231 | [Power of Two][231] | 21 ms | golang
 234 | [Palindrome Linked List][234] | 28 ms | golang
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
 257 | [Binary Tree Paths][257] | 4 ms | golang
@@ -104,6 +105,7 @@
 [223]: ./leetcode/223.rectangle-area.go
 [226]: ./leetcode/226.invert-binary-tree.go
 [228]: ./leetcode/228.summary-ranges.go
+[231]: ./leetcode/231.power-of-two.go
 [234]: ./leetcode/234.palindrome-linked-list.go
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
 [257]: ./leetcode/257.binary-tree-paths.go
