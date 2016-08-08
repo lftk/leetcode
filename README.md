@@ -52,6 +52,7 @@
 234 | [Palindrome Linked List][234] | 28 ms | golang
 237 | [Delete Node in a Linked List][237] | 4 ms | c
 241 | [Different Ways to Add Parentheses][241] | 12 ms | golang
+242 | [Valid Anagram][242] | 28 ms | golang
 257 | [Binary Tree Paths][257] | 4 ms | golang
 258 | [Add Digits][258] | 20 msg | golang
 260 | [Single Number III][260] | 16 ms | golang
@@ -110,6 +111,7 @@
 [234]: ./leetcode/234.palindrome-linked-list.go
 [237]: ./leetcode/237.delete-node-in-a-linked-list.go
 [241]: ./leetcode/241.different-ways-to-add-parentheses.go
+[242]: ./leetcode/242.valid-anagram.go
 [257]: ./leetcode/257.binary-tree-paths.go
 [258]: ./leetcode/258.add-digits.go
 [260]: ./leetcode/260.single-number-iii.go
