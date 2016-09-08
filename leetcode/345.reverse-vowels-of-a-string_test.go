@@ -14,4 +14,9 @@ func Test_reverseVowels(t *testing.T) {
 	if s2 != "leotcede" {
 		t.Error("leetcode", s2)
 	}
+
+	s3 := reverseVowels("a.b,.")
+	if s3 != "a.b,." {
+		t.Error("a.b,.", s3)
+	}
 }

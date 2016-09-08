@@ -60,6 +60,7 @@
 283 | [Move Zeroes][283] | 12 ms | c
 292 | [Nim Game][292] | 0 ms | c
 344 | [Reverse String][344] | 12 ms | golang
+345 | [Reverse Vowels of a String][345] | 16 ms | golang
 349 | [Intersection of Two Arrays][349] | 12 ms | golang
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
 371 | [Sum of Two Integers][371] | 0 ms | golang
@@ -120,6 +121,7 @@
 [283]: ./leetcode/283.move-zeroes.go
 [292]: ./leetcode/292.nim-game.go
 [344]: ./leetcode/344.reverse-string.go
+[345]: ./leetcode/345.reverse-vowels-of-a-string.go
 [349]: ./leetcode/349.intersection-of-two-arrays.go
 [350]: ./leetcode/350.intersection-of-two-arrays-ii.go
 [371]: ./leetcode/371.sum-of-two-integers.go
