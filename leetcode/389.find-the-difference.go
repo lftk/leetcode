@@ -7,8 +7,9 @@ package leetcode
 #include <stdlib.h>
 
 char findTheDifference(char* s, char* t) {
-    int ch = t[strlen(t) - 1];
-    for (int i = 0; i < strlen(s); ++i) {
+	int i, ch;
+	ch = t[strlen(t) - 1];
+    for (i = 0; i < strlen(s); ++i) {
         ch += t[i] - s[i];
     }
     return (char)ch;
