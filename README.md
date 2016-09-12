@@ -65,6 +65,7 @@
 350 | [Intersection of Two Arrays II][350] | 12 ms | golang
 371 | [Sum of Two Integers][371] | 0 ms | golang
 383 | [Ransom Note][383] | 60 ms | golang
+387 | [First Unique Character in a String][387] | 103 ms | golang
 389 | [Find the Difference][389] | 3 ms | golang
 
 [001]: ./leetcode/001.two-sum.go
@@ -127,4 +128,5 @@
 [350]: ./leetcode/350.intersection-of-two-arrays-ii.go
 [371]: ./leetcode/371.sum-of-two-integers.go
 [383]: ./leetcode/383.ransom-note.go
+[387]: ./leetcode/387.first-unique-character-in-a-string.go
 [389]: ./leetcode/389.find-the-difference.go
