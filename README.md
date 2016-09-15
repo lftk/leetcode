@@ -58,6 +58,7 @@
 257 | [Binary Tree Paths][257] | 4 ms | golang
 258 | [Add Digits][258] | 20 msg | golang
 260 | [Single Number III][260] | 16 ms | golang
+263 | [Ugly Number][263] | 6 ms | golang
 268 | [Missing Number][268] | 48 ms | golang
 283 | [Move Zeroes][283] | 12 ms | c
 292 | [Nim Game][292] | 0 ms | c
@@ -123,6 +124,7 @@
 [257]: ./leetcode/257.binary-tree-paths.go
 [258]: ./leetcode/258.add-digits.go
 [260]: ./leetcode/260.single-number-iii.go
+[263]: ./leetcode/263.ugly-number.go
 [268]: ./leetcode/268.missing-number.go
 [283]: ./leetcode/283.move-zeroes.go
 [292]: ./leetcode/292.nim-game.go
