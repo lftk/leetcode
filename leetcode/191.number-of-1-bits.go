@@ -5,6 +5,8 @@ package leetcode
 /*
 #include <stdlib.h>
 
+typedef unsigned int uint32_t;
+
 int hammingWeight(uint32_t n) {
     int c = 0;
     while (n > 0) {
