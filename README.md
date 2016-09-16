@@ -11,6 +11,7 @@
 013 | [Roman to Integer][013] | 72 ms | golang
 019 | [Remove Nth Node From End of List][019] | 8 ms | golang
 020 | [Valid Parentheses][020] | 0 ms | golang
+021 | [Merge Two Sorted Lists][021] | 6 ms | golang
 034 | [Search for a Range][034] | 24 ms | golang
 040 | [Combination Sum II][040] | 12 ms | golang
 041 | [First Missing Positive][041] | 6 ms | golang
@@ -79,6 +80,7 @@
 [013]: ./leetcode/013.roman-to-integer.go
 [019]: ./leetcode/019.remove-nth-node-from-end-of-list.go
 [020]: ./leetcode/020.valid-parentheses.go
+[021]: ./leetcode/021.merge-two-sorted-lists.go
 [034]: ./leetcode/034.search-for-a-range.go
 [040]: ./leetcode/040.combination-sum-ii.go
 [041]: ./leetcode/041.first-missing-positive.go
