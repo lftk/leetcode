@@ -46,6 +46,7 @@
 168 | [Excel Sheet Column Title][168] | 0 ms | golang
 169 | [Majority Element][169] | 34 ms | golang
 171 | [Excel Sheet Column Number][171] | 16 ms | golang
+190 | [Reverse Bits][190] | 3 ms | c
 191 | [Number of 1 Bits][191] | 0 ms | c
 201 | [Bitwise AND of Numbers Range][201] | 116 ms | golang
 202 | [Happy Number][202] | 3 ms | golang
@@ -118,6 +119,7 @@
 [168]: ./leetcode/168.excel-sheet-column-title.go
 [169]: ./leetcode/169.majority-element.go
 [171]: ./leetcode/171.excel-sheet-column-number.go
+[190]: ./leetcode/190.reverse-bits.go
 [191]: ./leetcode/191.number-of-1-bits.go
 [201]: ./leetcode/201.bitwise-and-of-numbers-range.go
 [202]: ./leetcode/202.happy-number.go
