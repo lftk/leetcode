@@ -36,6 +36,7 @@
 112 | [Path Sum][112] | 20 ms | golang
 113 | [Path Sum II][113] | 24 ms | golang
 118 | [Pascal's Triangle][118] | 0 ms | golang
+119 | [Pascal's Triangle II][119] | 0 ms | golang
 129 | [Sum Root to Leaf Numbers][129] | 12 ms | golang
 135 | [Candy][135] | 56 ms | golang
 136 | [Single Number][136] | 24 ms | golang
@@ -112,6 +113,7 @@
 [112]: ./leetcode/112.path-sum.go
 [113]: ./leetcode/113.path-sum-ii.go
 [118]: ./leetcode/118.pascals-triangle.go
+[119]: ./leetcode/119.pascals-triangle-ii.go
 [129]: ./leetcode/129.sum-root-to-leaf-numbers.go
 [135]: ./leetcode/135.candy.go
 [136]: ./leetcode/136.single-number.go
