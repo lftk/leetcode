@@ -80,6 +80,7 @@
 383 | [Ransom Note][383] | 60 ms | golang
 387 | [First Unique Character in a String][387] | 103 ms | golang
 389 | [Find the Difference][389] | 3 ms | golang
+396 | [Rotate Function][396] | 612 ms | golang
 400 | [Nth Digit][400] | 0 ms | golang
 
 [001]: ./leetcode/001.two-sum.go
@@ -157,4 +158,5 @@
 [383]: ./leetcode/383.ransom-note.go
 [387]: ./leetcode/387.first-unique-character-in-a-string.go
 [389]: ./leetcode/389.find-the-difference.go
+[396]: ./leetcode/396.rotate-function.go
 [400]: ./leetcode/400.nth-digit.go
