@@ -53,6 +53,7 @@
 191 | [Number of 1 Bits][191] | 0 ms | c
 201 | [Bitwise AND of Numbers Range][201] | 116 ms | golang
 202 | [Happy Number][202] | 3 ms | golang
+205 | [Isomorphic Strings][205] | 16 ms | golang
 206 | [Reverse Linked List][206] | 4 ms | golang
 209 | [Minimum Size Subarray Sum][209] | 8 ms | golang
 215 | [Kth Largest Element in an Array][215] | 32 ms | golang
@@ -131,6 +132,7 @@
 [191]: ./leetcode/191.number-of-1-bits.go
 [201]: ./leetcode/201.bitwise-and-of-numbers-range.go
 [202]: ./leetcode/202.happy-number.go
+[205]: ./leetcode/205.isomorphic-strings.go
 [206]: ./leetcode/206.reverse-linked-list.go
 [209]: ./leetcode/209.minimum-size-subarray-sum.go
 [215]: ./leetcode/215.kth-largest-element-in-an-array.go
