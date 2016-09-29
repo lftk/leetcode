@@ -11,7 +11,7 @@ func Test_isIsomorphic(t *testing.T) {
     }
 
     b2 := isIsomorphic("aa", "ab")
-    if !b2 {
+    if b2 {
         t.Error("aa", "ab")
     }
 }
