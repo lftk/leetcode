@@ -25,6 +25,7 @@
 058 | [Length of Last Word][058] | 3 ms | golang
 062 | [Unique Paths][062] | 0 ms | golang
 066 | [Plus One][066] | 3 ms | golang
+067 | [Add Binary][067] | 3 ms | golang
 069 | [Sqrt(x)][069] | 16 ms | golang
 070 | [Climbing Stairs][070] | 0 ms | golang
 074 | [Search a 2D Matrix][074] | 20 ms | golang
@@ -109,6 +110,7 @@
 [058]: ./leetcode/058.length-of-last-word.go
 [062]: ./leetcode/062.unique-paths.go
 [066]: ./leetcode/066.plus-one.go
+[067]: ./leetcode/067.add-binary.go
 [069]: ./leetcode/069.sqrtxz.go
 [070]: ./leetcode/070.climbing-stairs.go
 [074]: ./leetcode/074.search-a-2d-matrix.go
