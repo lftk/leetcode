@@ -7,6 +7,7 @@
 ------ | ------ | ------: | ------
 001 | [Two Sum][001] | 12 ms | golang
 003 | [Longest Substring Without Repeating Characters][003] | 28 ms | golang
+006 | [ZigZag Conversion][006] | 32 ms | golang
 007 | [Reverse Integer][007] | 6 ms | golang
 008 | [String to Integer (atoi)][008] | 9 ms | golang
 009 | [Palindrome Number][009] | 144 ms | golang
@@ -92,6 +93,7 @@
 
 [001]: ./leetcode/001.two-sum.go
 [003]: ./leetcode/003.longest-substring-without-repeating-characters.go
+[006]: ./leetcode/006.zigzag-conversion.go
 [007]: ./leetcode/007.reverse-integer.go
 [008]: ./leetcode/008.string-to-integer-atoi.go
 [009]: ./leetcode/009.palindrome-number.go
