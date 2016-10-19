@@ -90,6 +90,7 @@
 396 | [Rotate Function][396] | 612 ms | golang
 400 | [Nth Digit][400] | 0 ms | golang
 404 | [Sum of Left Leaves][404] | 6 ms | golang
+412 | [Fizz Buzz][412] | 156 ms | golang
 415 | [Add Strings][415] | 26 ms | golang
 
 [001]: ./leetcode/001.two-sum.go
@@ -177,4 +178,5 @@
 [396]: ./leetcode/396.rotate-function.go
 [400]: ./leetcode/400.nth-digit.go
 [404]: ./leetcode/404.sum-of-left-leaves.go
+[412]: ./leetcode/412.fizz-buzz.go
 [415]: ./leetcode/415.add-strings.go
