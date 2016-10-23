@@ -33,6 +33,7 @@
 083 | [Remove Duplicates from Sorted List][083] | 12 ms | golang
 088 | [Merge Sorted Array][088] | 4 ms | golang
 100 | [Same Tree][100] | 0 ms | golang
+101 | [Symmetric Tree][109] | 6 ms | golang
 102 | [Binary Tree Level Order Traversal][102] | 12 ms | golang
 104 | [Maximum Depth of Binary Tree][104] | 20 ms | golang
 108 | [Convert Sorted Array to Binary Search Tree][108] | 392 ms | golang
@@ -124,6 +125,7 @@
 [102]: ./leetcode/102.binary-tree-level-order-traversal.go
 [104]: ./leetcode/104.maximum-depth-of-binary-tree.go
 [108]: ./leetcode/108.convert-sorted-array-to-binary-search-tree.go
+[101]: ./leetcode/101.symmetric-tree.go
 [111]: ./leetcode/111.minimum-depth-of-binary-tree.go
 [112]: ./leetcode/112.path-sum.go
 [113]: ./leetcode/113.path-sum-ii.go
