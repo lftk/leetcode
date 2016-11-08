@@ -30,6 +30,7 @@
 069 | [Sqrt(x)][069] | 16 ms | golang
 070 | [Climbing Stairs][070] | 0 ms | golang
 074 | [Search a 2D Matrix][074] | 20 ms | golang
+075 | [Sort Colors][075] | 3 ms | golang
 083 | [Remove Duplicates from Sorted List][083] | 12 ms | golang
 088 | [Merge Sorted Array][088] | 4 ms | golang
 100 | [Same Tree][100] | 0 ms | golang
@@ -120,6 +121,7 @@
 [069]: ./leetcode/069.sqrtxz.go
 [070]: ./leetcode/070.climbing-stairs.go
 [074]: ./leetcode/074.search-a-2d-matrix.go
+[075]: ./leetcode/075.sort-colors.go
 [083]: ./leetcode/083.remove-duplicates-from-sorted-list.go
 [088]: ./leetcode/088.merge-sorted-array.go
 [100]: ./leetcode/100.same-tree.go
