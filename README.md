@@ -95,6 +95,7 @@
 404 | [Sum of Left Leaves][404] | 6 ms | golang
 412 | [Fizz Buzz][412] | 156 ms | golang
 415 | [Add Strings][415] | 26 ms | golang
+453 | [Minimum Moves to Equal Array Elements][453] | 88 ms | golang
 
 [001]: ./leetcode/001.two-sum.go
 [003]: ./leetcode/003.longest-substring-without-repeating-characters.go
@@ -187,3 +188,4 @@
 [404]: ./leetcode/404.sum-of-left-leaves.go
 [412]: ./leetcode/412.fizz-buzz.go
 [415]: ./leetcode/415.add-strings.go
+[453]: ./leetcode/453.minimum-moves-to-equal-array-elements.go
