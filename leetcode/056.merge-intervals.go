@@ -29,12 +29,12 @@ func merge(intervals []Interval) []Interval {
 
 }
 
-func max(x, y int) int {
-	if x < y {
-		return y
-	}
-	return x
-}
+// func max(x, y int) int {
+// 	if x < y {
+// 		return y
+// 	}
+// 	return x
+// }
 
 type Intervals []Interval
 
