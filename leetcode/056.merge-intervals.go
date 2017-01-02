@@ -16,28 +16,24 @@ func merge(intervals []Interval) []Interval {
 	sort.Sort(src)
 
 	dst := []Interval{src[0]}
-	if src.Len() == 1 {
-		return dst
+
+	for i := 0; i < src.Len(); i++ {
+		if dst[len(dst)-1].End < src[i].Start {
+			dst = append(dst, src[i])
+		} else {
+			dst[len(dst)-1].End = max(dst[len(dst)-1].End, src[i].End)
+		}
 	}
 
-	i, j := 0, 1
-	for {
-		for dst[i].End < src[j].Start {
-			i++
-			dst = append(dst, src[j])
-			if j++; j == src.Len() {
-				return dst
-			}
-		}
-		for dst[i].End >= src[j].Start {
-			if dst[i].End < src[j].End {
-				dst[i].End = src[j].End
-			}
-			if j++; j == src.Len() {
-				return dst
-			}
-		}
+	return dst
+
+}
+
+func max(x, y int) int {
+	if x < y {
+		return y
 	}
+	return x
 }
 
 type Intervals []Interval
