@@ -5,30 +5,18 @@ func searchMatrix(matrix [][]int, target int) bool {
 		return false
 	}
 
-	k, l := -1, len(matrix[0])
-	for i := 0; i < len(matrix); i++ {
-		s := matrix[i][0]
-		e := matrix[i][l-1]
-		if s <= target && e >= target {
-			k = i
-			break
-		}
-	}
-	if k == -1 {
-		return false
-	}
+	m, n := len(matrix), len(matrix[0])
+	start, end, mid := 0, m*n-1, 0
+	for start <= end {
+		mid = (start + end) / 2
+		v := matrix[mid/n][mid%n]
 
-	l, r := 0, l
-	for l <= r {
-		m := (l + r) / 2
-		v := matrix[k][m]
-		if v == target {
-			return true
-		}
-		if v > target {
-			r = m - 1
+		if target < v {
+			end = mid - 1
+		} else if target > v {
+			start = mid + 1
 		} else {
-			l = m + 1
+			return true
 		}
 	}
 
