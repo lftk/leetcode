@@ -8,7 +8,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 	m, n := len(matrix), len(matrix[0])
 	start, end, mid := 0, m*n-1, 0
 	for start <= end {
-		mid = (start + end) / 2
+		mid = start + (end-start)/2
 		v := matrix[mid/n][mid%n]
 
 		if target < v {
