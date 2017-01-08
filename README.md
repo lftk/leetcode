@@ -60,6 +60,7 @@
 189 | [Rotate Array][189] | 175 ms | golang
 190 | [Reverse Bits][190] | 3 ms | c
 191 | [Number of 1 Bits][191] | 0 ms | c
+198 | [House Robber][198] | 0 ms | golang
 201 | [Bitwise AND of Numbers Range][201] | 116 ms | golang
 202 | [Happy Number][202] | 3 ms | golang
 203 | [Remove Linked List Elements][203] | 36 ms | golang
@@ -159,6 +160,7 @@
 [189]: ./leetcode/189.rotate-array.go
 [190]: ./leetcode/190.reverse-bits.go
 [191]: ./leetcode/191.number-of-1-bits.go
+[198]: ./leetcode/198.house-robber.go
 [201]: ./leetcode/201.bitwise-and-of-numbers-range.go
 [202]: ./leetcode/202.happy-number.go
 [203]: ./leetcode/203.remove-linked-list-elements.go
