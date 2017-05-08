@@ -106,6 +106,7 @@
 463 | [Island Perimeter][463] | 202 ms | golang
 476 | [Number Complement][476] | 0 ms | golang
 485 | [Max Consecutive Ones][485] | 168 ms | golang
+492 | [Construct the Rectangle][492] | 0 ms | golang
 500 | [Keyboard Row][500] | 0 ms | golang
 504 | [Base 7][504] | 3 ms | golang
 520 | [Detect Capital][520] | 6 ms | golang
@@ -216,6 +217,7 @@
 [463]: ./leetcode/463.island-perimeter.go
 [476]: ./leetcode/476.number-complement.go
 [485]: ./leetcode/485.max-consecutive-ones.go
+[492]: ./leetcode/492.construct-the-rectangle.go
 [500]: ./leetcode/500.keyboard-row.go
 [504]: ./leetcode/504.base-7.go
 [520]: ./leetcode/520.detect-capital.go
